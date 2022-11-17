@@ -20,7 +20,7 @@ from flask import Flask, request, render_template, redirect, url_for
 from cloudant.client import Cloudant
 
 # Authenticate using an IAM API key
-client = Cloudant.iam('2eb40045-a8d6-450d-9d24-52cc7cbb2810-bluemix','Ud0wunTPOI_8h5ZtEqi1IXk1gIKeYLmpUsCn0EeO8T4z', connect=True)
+client = Cloudant.iam('2eb40045-a8d6-450d-9d24-52cc7cbb2810-bluemix', 'Ud@wunTPOI_8h5ZtEqi1IXk1gIKeYLmpUsCn@Ee08T4z', connect=True)
 
 
 # Create a database using an initialized client
