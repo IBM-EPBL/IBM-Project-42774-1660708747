@@ -10,4 +10,3 @@ Team Members
 
 2.TAMIZHARASAN M
 
-3.KARTHIK S
